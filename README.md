@@ -1,0 +1,2 @@
+# Stock_price_analysis
+株価のデータを深層学習用いて予測できないか実験
